@@ -3,5 +3,5 @@
 Design History Essay
 ====================
 
-webpage - (http://jordyquench.github.com/design-history-essay/design-essay-webpage.html)
---------------------------------------------------------------------------------------------------------------
+webpage - (http://Jordyquench.github.io/design-history-essay/design-essay-webpage.html)
+-----------------------------------------------------------------------------------------
