@@ -1,0 +1,414 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-size: 100%;
+	line-height: 1.5em;
+	font-family: 'Roboto', sans-serif;
+}
+
+/*--------typograpghy--------*/
+
+header h1{
+	text-align: center;
+	font-size: 78px;
+	padding-top: 3.25em;
+	color: #fff;
+}
+
+header h2{
+	text-align: center;
+	font-size: 28px;
+	color: #fff;
+	font-weight: 1px;
+}
+
+img {
+	max-width: 100%;
+	height: auto; 
+}
+
+/*--------typograpghy--------*/
+
+/*--------Header--------*/
+
+header{
+	width: 100%;
+	min-height: 750px;
+    background: url("../images/banner-image.png") center center;
+    position: relative;
+    background-size: cover;
+}
+
+header img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/*--------Header--------*/
+
+/*--------nav--------*/
+
+nav {
+    padding: 1em 0;
+    margin-bottom: 4em;
+    background-color: #446a87;
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+
+}
+
+
+nav ul {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+
+}
+
+nav ul li {
+    display: inline;
+    margin: 20px;
+    font-size: 18px;
+
+}
+
+a {
+	color: #FFF;
+	text-decoration: none;
+
+	-o-transition:.2s;
+	-ms-transition:.2s;
+	-moz-transition:.2s;
+	-webkit-transition:.2s;
+}
+
+a:hover {
+	color: #919090; 
+
+} 
+
+/*--------nav--------*/
+
+/*--------early life--------*/
+
+#early-life{
+	float: left;
+	width: 100%;
+
+}
+
+.container{
+	margin: 0 auto;
+	position: relative;
+	max-width: 50em;
+	padding-top: 5em;
+}
+
+#early-life h1{
+	float: left;
+	color: #778698;
+	font-size: 34px;
+}
+
+.early-paragraph-1{
+	float: left;
+	width: 16em;
+	height: 30em;
+	margin-top: 5em;
+	text-align: left;
+	letter-spacing: .5px;
+	line-height: 10px;
+	font-size: 16px;
+	color: #778698;
+	margin-left: -8em;
+	margin-right: 1em;
+}
+
+.early-paragraph-2{
+	float: left;
+	width: 16em;
+	height: 30em;
+	margin-top: 5em;
+	text-align: left;
+	letter-spacing: .5px;
+	line-height: 10px;
+	font-size: 16px;
+	color: #778698;
+}
+
+.early-paragraph-3{
+	float: right;
+	width: 16em;
+	height: 30em;
+	margin-top: 5em;
+	text-align: left;
+	letter-spacing: .5px;
+	line-height: 10px;
+	font-size: 16px;
+	color: #778698;
+}
+
+
+/*--------early life--------*/
+
+/*--------career--------*/
+
+
+#career{
+	float: left;
+	width: 100%;
+	background-color: #f3f4f8;
+
+}
+
+#career h1{
+	float: left;
+	color: #778698;
+	font-size: 34px;
+	margin-bottom: -2.5em;
+}
+
+.career-text-top{
+	float: left;
+	color: #778698;
+	font-size: 16px;
+	width: 50em;
+	margin-top: 5em;
+}
+
+.career-text-top p{
+	margin-bottom: 3em;
+}
+
+.career-text-top img{
+	margin-bottom: 3em;
+
+}
+
+/*--------career--------*/
+
+/*--------aim--------*/
+
+#aim{
+	float: left;
+	width: 100%;
+
+}
+
+
+#aim h1{
+	float: left;
+	color: #778698;
+	font-size: 34px;
+	margin-bottom: -2.5em;
+}
+
+
+.aim-top-text{
+	float: left;
+	color: #778698;
+	font-size: 16px;
+	width: 50em;
+	margin-top: 5em;
+}
+
+/*--------blockquote--------*/
+
+blockquote{
+	padding: 1em 0 2em 0;
+	font-size: 1.5em;
+	line-height: 1.4em;
+	margin: 0;
+
+}
+
+blockquote cite{
+	font-size: .75em;
+}
+
+blockquote p{
+	color: #778698;
+}
+
+blockquote p+p{
+	font-size: 1em;
+}
+
+/*--------blockquote--------*/
+
+.aim-text-left{
+	float: left;
+	color: #778698;
+	font-size: 16px;
+	width: 25em;
+}
+
+.aim-text-left p{
+	margin-bottom: 2em;
+
+}
+
+#aim img{
+	float: left;
+	margin-left: 1em;
+	margin-bottom: 5em;
+
+}
+
+
+/*--------aim--------*/
+
+/*--------subway--------*/
+
+
+#subway {
+	float: left;
+	width: 100%;
+	background-color: #f3f4f8;
+
+}
+
+.full-text {
+	float: left;
+	width: 100%;
+
+}
+
+#subway h1{
+	float: left;
+	color: #778698;
+	font-size: 34px;
+	margin-bottom: 1em;
+}
+
+
+.subway p{
+	margin-bottom: 2em;
+	color: #778698;
+}
+
+
+.text-left {
+	float: left;
+	width: 45%;
+}
+
+.text-right {
+	float: right;
+	width: 45%;
+}
+
+
+
+.image-gallery a{
+	float: left;
+	width: 33%;
+	margin-bottom: 2em;
+	margin-top: 2em;
+}
+
+
+.image{
+	float: left;
+	margin-left: 2em;
+	box-shadow: 0 0 7px rgba(0, 0, 0, .5);
+}
+
+
+.image-gallery img{
+	transition: all .2s ease-in-out;
+}
+
+
+.image-gallery:hover img{
+	opacity: .6;
+	transform: scale(.90);
+}
+
+.image-gallery img:hover {
+	opacity: 1;
+	transform: scale(1.1);
+	box-shadow: 0 0 7px rgba(0, 0, 0, .5);
+}
+
+/*--------subway--------*/
+
+/*--------summary--------*/
+
+#summary {
+	float: left;
+	width: 100%;
+
+}
+
+#summary h1{
+	float: left;
+	color: #778698;
+	font-size: 34px;
+	margin-bottom: 1em;
+}
+
+.summary-text {
+	float: left;
+	width: 100%;
+	height: 20em;
+
+}
+
+.summary-text p{
+	margin-bottom: 2em;
+	color: #778698;
+}
+
+/*--------summary--------*/
+
+/*--------bibliography--------*/
+
+footer {
+	float: left;
+	width: 100%;
+	background-color: #446a87;
+	color: #fff;
+}
+
+footer h1{
+	float: left;
+	font-size: 34px;
+	margin-bottom: 1em;
+	width: 100%;
+}
+
+footer p{
+	margin-bottom: 2em;
+	float: left;
+}
+
+
+.icons{
+	float: left;
+	margin: 0 auto;
+	margin-left: 15em;
+
+}
+
+
+.icons:hover img{
+	opacity: .6;
+	transform: scale(.90);
+}
+
+.icons img:hover {
+	opacity: 1;
+	transform: scale(1.1);
+}
+
+.icons img{
+	transition: all .2s ease-in-out;
+}
+
+
+
+
+
