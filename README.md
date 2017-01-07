@@ -3,6 +3,6 @@
 Design History Essay
 ====================
 
-http://Jordyquench.github.io/design-history-essay/massimo-vignelli.html
+http://Jordyquench.github.io/design-history-essay/index.html
 -----------------------------------------------------------------------------
 
